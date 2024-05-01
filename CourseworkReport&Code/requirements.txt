@@ -1,0 +1,17 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+
+python-dotenv~=1.0.1
+pandas~=2.2.1
+requests~=2.31.0
+numpy~=1.26.4
+XlsxWriter~=3.2.0
+scikit-learn~=1.4.1.post1
+pytest~=8.0.2
